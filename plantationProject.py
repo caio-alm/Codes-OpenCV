@@ -18,6 +18,7 @@ cv2.createTrackbar('S max', 'Calibrate', 255, 255, none)
 cv2.createTrackbar('V min', 'Calibrate', 40, 255, none)
 cv2.createTrackbar('V max', 'Calibrate', 255, 255, none)
 
+
 while True:
     h_min = cv2.getTrackbarPos('H min', 'Calibrate')
     h_max = cv2.getTrackbarPos('H max', 'Calibrate')
