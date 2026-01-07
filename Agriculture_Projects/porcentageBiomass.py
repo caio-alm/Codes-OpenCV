@@ -6,7 +6,7 @@ def none(x):
     pass
 
 
-videoDrone = cv2.VideoCapture('data/plantVideo.mp4')
+videoDrone = cv2.VideoCapture('Agriculture_Projects/data/plantVideo.mp4')
 
 cv2.namedWindow('Control')
 
