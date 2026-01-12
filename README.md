@@ -30,7 +30,7 @@ Na pasta `Agriculture_Projects`, você encontrará os seguintes códigos:
 
 2. **Entre na pasta:**
    ```bash
-   cd cd agri-vision-system
+   cd agri-vision-system
    ```
 3. **Instale o requirements.txt:**
    ```bash
