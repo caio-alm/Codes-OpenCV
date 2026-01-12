@@ -1,5 +1,8 @@
 # Agrigulture Vision System
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
+
 O objetivo principal é processar imagens aéreas capturadas por drones para diferenciar a vegetação do solo, permitindo análises de cobertura vegetal e monitoramento da lavoura.
 
 > Projeto desenvolvido com o intuito de pôr em prática os conhecimentos da biblioteca **OpenCV**.
