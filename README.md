@@ -28,7 +28,7 @@ Na pasta `Agriculture_Projects`, você encontrará os seguintes códigos:
 ## Como Rodar o Programa
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/caio-alm/agri-vision-system.git](https://github.com/caio-alm/agri-vision-system.git)
+   git clone https://github.com/caio-alm/agri-vision-system.git
    ```
 
 2. **Entre na pasta:**
